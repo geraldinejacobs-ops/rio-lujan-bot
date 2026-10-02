@@ -1,6 +1,9 @@
 {
-    "estacion": "Río Luján en Mercedes - Puente Manuel J. García",
-    "valor_m": null,
-    "fecha": null,
-    "actualizado": null
+  "estacion": "Río Luján en Mercedes - Puente Manuel J. García",
+  "valor_m": {
+    "fechamedicion": "2026-10-02T14:20:00",
+    "valor": "0.99"
+  },
+  "fecha": "2026-10-02T14:20:00",
+  "actualizado": "2026-10-02T18:14:50.540Z"
 }
