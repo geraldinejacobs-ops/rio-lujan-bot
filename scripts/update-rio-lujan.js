@@ -24,21 +24,29 @@ async function main() {
   const dates = data.dates || [];
   const equipos = data.equipos || {};
 
-  // Cada entrada de "equipos" es un objeto { fechamedicion, valor } (no un número suelto).
+  const leerValor = (entry) => {
+    const crudo = (entry != null && typeof entry === 'object') ? entry.valor : entry;
+    const v = parseFloat(crudo);
+    return isNaN(v) ? null : v;
+  };
+
+  // Buscamos, entre todos los sensores de la estación, la lectura válida más reciente.
   let bestValor = null;
   let bestFecha = null;
+  let bestEntries = null;
+  let bestIndex = -1;
   Object.values(equipos).forEach((entries) => {
     if (!Array.isArray(entries)) return;
     for (let i = entries.length - 1; i >= 0; i--) {
-      const entry = entries[i];
-      if (entry == null) continue;
-      const crudo = (typeof entry === 'object') ? entry.valor : entry;
-      const v = parseFloat(crudo);
-      if (!isNaN(v)) {
-        const f = (typeof entry === 'object' && entry.fechamedicion) ? entry.fechamedicion : dates[i];
+      const v = leerValor(entries[i]);
+      if (v != null) {
+        const entry = entries[i];
+        const f = (entry && typeof entry === 'object' && entry.fechamedicion) ? entry.fechamedicion : dates[i];
         if (f && (bestFecha == null || new Date(f) > new Date(bestFecha))) {
           bestValor = v;
           bestFecha = f;
+          bestEntries = entries;
+          bestIndex = i;
         }
         break;
       }
@@ -49,9 +57,29 @@ async function main() {
     throw new Error('No se encontró ninguna lectura válida en la respuesta de la UNLu.');
   }
 
+  // Tendencia: comparamos contra una lectura ~3 horas antes, del mismo sensor
+  // (las mediciones suelen venir cada 20 min, así que retrocedemos ~9 pasos).
+  let tendencia = null;
+  if (bestEntries && bestIndex > 0) {
+    const pasosAtras = 9;
+    const idxInicio = Math.max(0, bestIndex - pasosAtras);
+    let valorAnterior = null;
+    for (let j = idxInicio; j >= 0; j--) {
+      const v = leerValor(bestEntries[j]);
+      if (v != null) { valorAnterior = v; break; }
+    }
+    if (valorAnterior != null) {
+      const diff = bestValor - valorAnterior;
+      if (diff > 0.02) tendencia = 'subiendo';
+      else if (diff < -0.02) tendencia = 'bajando';
+      else tendencia = 'estable';
+    }
+  }
+
   const output = {
     estacion: STATION_NAME,
     valor_m: bestValor,
+    tendencia,
     fecha: bestFecha,
     actualizado: new Date().toISOString(),
   };
