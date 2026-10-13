@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-10-13T14:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-10-13T15:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Gral Manuel Belgrano - San Pedro.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_13_1504_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
