@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-10-20T22:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-10-20T23:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MENDOZA: Junin - La Paz - Lavalle - Rivadavia - San Martin - Santa Rosa.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_20_2310_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
