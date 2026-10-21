@@ -1,5 +1,5 @@
 {
-  "verificado": "2026-10-21T21:00:00.000Z",
+  "verificado": "2026-10-21T22:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
@@ -23,12 +23,6 @@
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Juarez Celman - Pres Roque S. Pena - Rio Cuarto.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2007_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Collon Cura.RIO NEGRO: Pilcaniyeu.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_1945_cap_es.xml",
       "fecha": ""
     }
   ]
