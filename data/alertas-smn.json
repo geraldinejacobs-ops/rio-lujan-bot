@@ -2,6 +2,12 @@
   "verificado": "2026-10-21T22:00:00.000Z",
   "avisos": [
     {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Concepcion - Gral Paz - Ituzaingo - Mburucuya - Saladas - San Miguel.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2223_cap_es.xml",
+      "fecha": ""
+    },
+    {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral Roca - Pres Roque S. Pena - Rio Cuarto.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2043_cap_es.xml",
@@ -11,18 +17,6 @@
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MENDOZA: Malargue.LA PAMPA: Chical Co - Puelen.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2031_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Ituzaingo - Santo Tome.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2018_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Juarez Celman - Pres Roque S. Pena - Rio Cuarto.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2007_cap_es.xml",
       "fecha": ""
     }
   ]
