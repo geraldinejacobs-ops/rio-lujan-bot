@@ -1,4 +1,11 @@
 {
   "verificado": "2026-10-21T18:00:00.000Z",
-  "avisos": []
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral Roca - Juarez Celman - Pres Roque S. Pena - Rio Cuarto.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_1837_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
