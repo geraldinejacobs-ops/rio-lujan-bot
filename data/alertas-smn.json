@@ -3,6 +3,12 @@
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Beron de Astrada - Concepcion - Empedrado - Gral Paz - Itati - Ituzaingo - Mburucuya - San Cosme - San Luis del Palmar - San Miguel.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0416_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - 25 de Mayo - Bermejo - Libertad - Pres de la Plaza - Quitilipi - San Fernando - San Lorenzo - Tapenaga.CORRIENTES: Corrientes - Empedrado - San Cosme - San Luis del Palmar.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0322_cap_es.xml",
       "fecha": ""
