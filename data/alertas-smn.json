@@ -1,6 +1,18 @@
 {
-  "verificado": "2026-10-22T05:00:00.000Z",
+  "verificado": "2026-10-22T06:00:00.000Z",
   "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Beron de Astrada - Concepcion - Empedrado - Gral Paz - Itati - Ituzaingo - Mburucuya - San Cosme - San Luis del Palmar - San Miguel.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0614_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 2 de Abril - Fray J. Maria de Oro - Mayor L. J. Fontana - O Higgins - San Lorenzo - Tapenaga.SANTA FE: 9 de Julio - Vera.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0544_cap_es.xml",
+      "fecha": ""
+    },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - Bermejo - Libertad - Pres de la Plaza - San Fernando - Tapenaga.CORRIENTES: Corrientes - Empedrado - San Cosme - San Luis del Palmar.",
