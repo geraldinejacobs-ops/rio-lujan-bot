@@ -1,6 +1,12 @@
 {
-  "verificado": "2026-10-22T13:00:00.000Z",
+  "verificado": "2026-10-22T14:00:00.000Z",
   "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Garay - La Capital - San Javier.ENTRE RIOS: Federal - La Paz - Parana - S. J. de Feliciano - Villaguay.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1403_cap_es.xml",
+      "fecha": ""
+    },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Colon - Rio Primero - San Justo - Totoral - Tulumba.",
@@ -9,8 +15,20 @@
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Colon - Concepcion del Ururguay - Gualeguaychu - San Salvador - Tala - Villaguay.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1417_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Beron de Astrada - Concepcion - Gral Paz - Ituzaingo - Mburucuya - San Miguel.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1312_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral San Martin - Rio Segundo - Santa Maria - Tercero Arriba - Union.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1400_cap_es.xml",
       "fecha": ""
     },
     {
@@ -29,12 +47,6 @@
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Garay - La Capital - San Jeronimo.ENTRE RIOS: Diamante - Gualeguay - Nogoya - Parana - Tala - Victoria - Villaguay.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1221_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Garay - La Capital - San Justo.ENTRE RIOS: La Paz - Parana.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1256_cap_es.xml",
       "fecha": ""
     }
   ]
