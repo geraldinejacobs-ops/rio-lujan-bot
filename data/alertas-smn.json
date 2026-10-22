@@ -1,4 +1,11 @@
 {
   "verificado": "2026-10-22T03:00:00.000Z",
-  "avisos": []
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - 25 de Mayo - Bermejo - Libertad - Pres de la Plaza - Quitilipi - San Fernando - San Lorenzo - Tapenaga.CORRIENTES: Corrientes - Empedrado - San Cosme - San Luis del Palmar.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0322_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
