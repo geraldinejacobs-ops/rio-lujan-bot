@@ -1,10 +1,16 @@
 {
-  "verificado": "2026-10-22T22:00:00.000Z",
+  "verificado": "2026-10-22T23:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: 25 de Mayo - Cainguas - Ldor Gral San Martin - Obera - San Ignacio.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_2140_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Candelaria - Leandro N. Alem - Obera - San Ignacio.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_2249_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: 25 de Mayo - Cainguas - Guarani - Ldor Gral San Martin - Montecarlo.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_2229_cap_es.xml",
       "fecha": ""
     }
   ]
