@@ -2,6 +2,12 @@
   "verificado": "2026-10-22T16:00:00.000Z",
   "avisos": [
     {
+      "titulo": "LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Anelo - Confluencia - Picun Leufu.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1641_cap_es.xml",
+      "fecha": ""
+    },
+    {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral San Martin - Tercero Arriba.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1553_cap_es.xml",
@@ -14,21 +20,15 @@
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Anelo - Confluencia - Picun Leufu.RIO NEGRO: El Cuy.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1436_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Federacion - Federal - La Paz - S. J. de Feliciano.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1534_cap_es.xml",
-      "fecha": ""
-    },
-    {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: San Cristobal.CORDOBA: San Justo.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1510_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Curuzu Cuatia - Monte Caseros - Paso de los Libres.ENTRE RIOS: Federacion - S. J. de Feliciano.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1638_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Castellanos - Las Colonias - San Cristobal.CORDOBA: San Justo.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1611_cap_es.xml",
       "fecha": ""
     }
   ]
