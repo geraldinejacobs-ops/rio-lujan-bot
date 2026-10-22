@@ -3,6 +3,12 @@
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Gral Paz - Ituzaingo - San Miguel.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_2349_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Candelaria - Leandro N. Alem - Obera - San Ignacio.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_2249_cap_es.xml",
       "fecha": ""
