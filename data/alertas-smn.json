@@ -1,17 +1,4 @@
 {
   "verificado": "2026-10-22T01:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Ituzaingo - Santo Tome.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0050_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Ituzaingo.MISIONES: Candelaria - Posadas - San Ignacio.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_21_2347_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "avisos": []
 }
