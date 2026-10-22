@@ -3,14 +3,8 @@
   "avisos": [
     {
       "titulo": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Iriondo - San Jeronimo - San Lorenzo.ENTRE RIOS: Diamante - Nogoya - Parana - Victoria.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1746_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Anelo - Confluencia - Picun Leufu.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1641_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Diamante - Nogoya - Parana - Victoria.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_1846_cap_es.xml",
       "fecha": ""
     }
   ]
