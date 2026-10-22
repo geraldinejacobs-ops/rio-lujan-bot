@@ -1,6 +1,12 @@
 {
-  "verificado": "2026-10-22T04:00:00.000Z",
+  "verificado": "2026-10-22T05:00:00.000Z",
   "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Gral Juan F. Quiroga - Gral Ocampo - Gral San Martin - Rosario V. Penaloza.CORDOBA: Minas - Pocho - San alberto.SAN LUIS: Ayacucho.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0512_cap_es.xml",
+      "fecha": ""
+    },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Beron de Astrada - Concepcion - Empedrado - Gral Paz - Itati - Ituzaingo - Mburucuya - San Cosme - San Luis del Palmar - San Miguel.",
@@ -11,12 +17,6 @@
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - 25 de Mayo - Bermejo - Libertad - Pres de la Plaza - Quitilipi - San Fernando - San Lorenzo - Tapenaga.CORRIENTES: Corrientes - Empedrado - San Cosme - San Luis del Palmar.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0322_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MENDOZA: La Paz.SAN LUIS: Juan M. de Pueyrredon.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_22_0356_cap_es.xml",
       "fecha": ""
     }
   ]
