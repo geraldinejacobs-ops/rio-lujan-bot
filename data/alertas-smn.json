@@ -2,15 +2,15 @@
   "verificado": "2026-10-23T12:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Concepcion - Gral Paz - Ituzaingo - Mburucuya - Saladas - San Miguel.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1021_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Gral Manuel Belgrano - Guarani - Montecarlo - San Pedro.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1214_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: 25 de Mayo - Cainguas - Candelaria - Guarani - Obera - San Javier - San Pedro.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1011_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Concepcion - Gral Alvear - Ituzaingo - Mercedes - San Martin - San Miguel - Santo Tome.MISIONES: Apostoles - Concepcion.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1211_cap_es.xml",
       "fecha": ""
     }
   ]
