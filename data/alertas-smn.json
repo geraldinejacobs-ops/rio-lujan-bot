@@ -1,16 +1,10 @@
 {
-  "verificado": "2026-10-23T15:00:00.000Z",
+  "verificado": "2026-10-23T16:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Curuzu Cuatia - Mercedes - Monte Caseros - Paso de los Libres.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1455_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Anelo - Confluencia - Picun Leufu - Zapala.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1412_cap_es.xml",
       "fecha": ""
     }
   ]
