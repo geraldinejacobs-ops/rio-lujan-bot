@@ -1,5 +1,5 @@
 {
-  "verificado": "2026-10-23T05:00:00.000Z",
+  "verificado": "2026-10-23T06:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
@@ -11,6 +11,12 @@
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - 25 de Mayo - Bermejo - Libertad - Mayor L. J. Fontana - O Higgins - Pres de la Plaza - San Fernando - San Lorenzo - Tapenaga.SANTA FE: Gral Obligado.CORRIENTES: Bella Vista - Concepcion - Corrientes - Empedrado - Gral Paz - Itati - Mburucuya - Saladas - San Cosme - San Luis del Palmar.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_0528_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Gral Manuel Belgrano - Iguazu.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_0610_cap_es.xml",
       "fecha": ""
     }
   ]
