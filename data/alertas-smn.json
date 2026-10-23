@@ -2,6 +2,12 @@
   "verificado": "2026-10-23T18:00:00.000Z",
   "avisos": [
     {
+      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Curuzu Cuatia - Goya - Lavalle - Mercedes - Paso de los Libres.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1817_cap_es.xml",
+      "fecha": ""
+    },
+    {
       "titulo": "LLUVIAS INTENSAS",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Confluencia.RIO NEGRO: El Cuy.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_23_1730_cap_es.xml",
