@@ -9,6 +9,18 @@
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Gral Manuel Belgrano - San Pedro.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1132_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Gral Paz - Ituzaingo - San Miguel.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1127_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - Bermejo - Libertad - San Fernando.CORRIENTES: Beron de Astrada - Corrientes - Empedrado - Gral Paz - Itati - Mburucuya - Saladas - San Cosme - San Luis del Palmar.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1023_cap_es.xml",
       "fecha": ""
