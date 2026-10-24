@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-10-24T00:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-10-24T01:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Garay - La Capital.ENTRE RIOS: Diamante - Nogoya - Parana - Victoria.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_0121_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
