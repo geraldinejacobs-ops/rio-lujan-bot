@@ -1,16 +1,16 @@
 {
-  "verificado": "2026-10-24T12:00:00.000Z",
+  "verificado": "2026-10-24T13:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Bella Vista - Concepcion - Curuzu Cuatia - Esquina - Goya - Ituzaingo - Lavalle - Mercedes - Monte Caseros - Paso de los Libres - Saladas - San Martin - San Roque - Sauce.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1055_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: San Fernando - Tapenaga.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1257_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Gral Manuel Belgrano - San Pedro.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1132_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Ituzaingo.MISIONES: Cainguas - Candelaria - Ldor Gral San Martin - Leandro N. Alem - Obera - Posadas - San Ignacio - San Javier.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1235_cap_es.xml",
       "fecha": ""
     }
   ]
