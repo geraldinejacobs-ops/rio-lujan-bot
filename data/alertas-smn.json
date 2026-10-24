@@ -1,6 +1,12 @@
 {
-  "verificado": "2026-10-24T06:00:00.000Z",
+  "verificado": "2026-10-24T07:00:00.000Z",
   "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Curuzu Cuatia - Esquina - Sauce.ENTRE RIOS: Federacion - Federal - La Paz - S. J. de Feliciano.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_0722_cap_es.xml",
+      "fecha": ""
+    },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Beron de Astrada - Gral Paz - Ituzaingo - San Miguel - Santo Tome.MISIONES: Apostoles - Posadas.",
