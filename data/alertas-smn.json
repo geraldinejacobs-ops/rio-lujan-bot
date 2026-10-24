@@ -1,4 +1,11 @@
 {
   "verificado": "2026-10-24T03:00:00.000Z",
-  "avisos": []
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo - Patino.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_0343_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
