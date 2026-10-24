@@ -1,6 +1,12 @@
 {
-  "verificado": "2026-10-24T10:00:00.000Z",
+  "verificado": "2026-10-24T11:00:00.000Z",
   "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Bella Vista - Concepcion - Curuzu Cuatia - Esquina - Goya - Ituzaingo - Lavalle - Mercedes - Monte Caseros - Paso de los Libres - Saladas - San Martin - San Roque - Sauce.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_24_1055_cap_es.xml",
+      "fecha": ""
+    },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - Bermejo - Libertad - San Fernando.CORRIENTES: Beron de Astrada - Corrientes - Empedrado - Gral Paz - Itati - Mburucuya - Saladas - San Cosme - San Luis del Palmar.",
