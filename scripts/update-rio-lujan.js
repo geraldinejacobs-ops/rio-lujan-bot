@@ -105,7 +105,10 @@ async function main() {
 // Si la última lectura de García tiene más de 6 horas, el robot termina en rojo
 // para que GitHub avise por mail (el archivo igual queda guardado).
 function avisarSiEstaVieja(fecha) {
-  const horas = (Date.now() - new Date(fecha).getTime()) / 3600000;
+  // Las fechas de la UNLu vienen en hora argentina, sin zona horaria: se interpretan como UTC-3
+  // (GitHub corre en UTC y, si no, la lectura parecería 3 horas más vieja de lo que es).
+  const conZona = /(Z|[+-]\d{2}:?\d{2})$/.test(fecha) ? fecha : `${fecha}-03:00`;
+  const horas = (Date.now() - new Date(conZona).getTime()) / 3600000;
   if (horas > 6) {
     throw new Error(`La estación de García no informa desde hace ${Math.round(horas)} horas (última lectura: ${fecha}).`);
   }
