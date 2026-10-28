@@ -11,7 +11,7 @@ const ARCHIVO_SALIDA = path.join(__dirname, '..', 'data', 'snih-niveles.json');
 
 async function pedir(codigo) {
   const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), 20000);
+  const timer = setTimeout(() => ctrl.abort(), 12000);
   try {
     const r = await fetch(URL, {
       method: 'POST',
@@ -24,7 +24,7 @@ async function pedir(codigo) {
     const d = j.d || {};
     if (d.RespuestaOK === false) throw new Error(d.MsgErr || 'RespuestaOK false');
     const m = (d.Mediciones || []).find(x => x.Codigo === CODIGO_ALTURA && x.Valor != null);
-    if (!m) return null;
+    if (!m || Number(m.Valor) <= -100) return null; // -999 / -9999 = sin dato válido
     const ms = Number((String(m.FechaHora).match(/-?\d+/) || [])[0]);
     return { valor: Number(m.Valor), fecha: new Date(ms).toISOString() };
   } finally { clearTimeout(timer); }
@@ -42,6 +42,7 @@ async function conReintento(codigo) {
 
   await Promise.all(Array.from({ length: SIMULTANEAS }, async () => {
     while (i < estaciones.length) {
+      if (resultados.length === 0 && errores >= 15) return; // el SNIH no responde: se corta
       const e = estaciones[i++];
       try {
         const m = await conReintento(e.c);
