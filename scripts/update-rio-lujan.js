@@ -7,9 +7,17 @@ const fs = require('fs');
 const STATION_ID = 43; // "Río Luján - Puente Manuel J. García" (Mercedes)
 const STATION_NAME = 'Río Luján en Mercedes - Puente Manuel J. García';
 
+// Si la última lectura tiene más de 6 horas, el robot termina en rojo para que GitHub avise por mail.
+function avisarSiEstaVieja(fecha) {
+  const horas = (Date.now() - new Date(fecha).getTime()) / 3600000;
+  if (horas > 6) {
+    throw new Error(`La estación no informa desde hace ${Math.round(horas)} horas (última lectura: ${fecha}).`);
+  }
+}
+
 async function main() {
   const hoy = new Date();
-  const hace3dias = new Date(hoy.getTime() - 3 * 24 * 3600000);
+  const hace3dias = new Date(hoy.getTime() - 14 * 24 * 3600000); // ventana amplia: si la estación se corta unos días, seguimos mostrando la última lectura
   const fmt = (d) => d.toISOString().slice(0, 10);
 
   const url = `https://redhidro.unlu.edu.ar/api/getmediciones/${STATION_ID}/${fmt(hace3dias)}/${fmt(hoy)}`;
@@ -54,7 +62,8 @@ async function main() {
   });
 
   if (bestValor == null) {
-    throw new Error('No se encontró ninguna lectura válida en la respuesta de la UNLu.');
+    // No es un error del robot: la estación no está informando. Se conserva el último dato guardado.
+    throw new Error('La UNLu no devolvió lecturas válidas en los últimos 14 días: la estación no está informando.');
   }
 
   // Tendencia: comparamos contra una lectura ~3 horas antes, del mismo sensor
@@ -84,9 +93,20 @@ async function main() {
     actualizado: new Date().toISOString(),
   };
 
+  // Si la lectura es la misma que ya está guardada, no se reescribe (evita commits inútiles cada 15 min).
+  try {
+    const previo = JSON.parse(fs.readFileSync('data/rio-lujan-mercedes.json', 'utf8'));
+    if (previo.valor_m === output.valor_m && previo.fecha === output.fecha && previo.tendencia === output.tendencia) {
+      console.log('Sin lectura nueva. Última lectura:', output.fecha);
+      avisarSiEstaVieja(output.fecha);
+      return;
+    }
+  } catch (e) { /* no existe todavía */ }
+
   fs.mkdirSync('data', { recursive: true });
   fs.writeFileSync('data/rio-lujan-mercedes.json', JSON.stringify(output, null, 2));
   console.log('Guardado con éxito:', output);
+  avisarSiEstaVieja(output.fecha);
 }
 
 main().catch((err) => {
