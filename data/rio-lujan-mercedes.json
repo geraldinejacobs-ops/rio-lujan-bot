@@ -7,7 +7,7 @@
     {
       "estacion": "Puente Jáuregui",
       "valor_m": 0.17,
-      "fecha": "2026-10-29T07:00:00",
+      "fecha": "2026-10-29T08:00:00",
       "tendencia": "estable"
     },
     {
@@ -35,5 +35,5 @@
       "tendencia": "estable"
     }
   ],
-  "actualizado": "2026-10-29T11:12:55.117Z"
+  "actualizado": "2026-10-29T11:56:06.229Z"
 }
