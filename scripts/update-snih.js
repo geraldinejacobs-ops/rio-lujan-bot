@@ -57,8 +57,16 @@ async function conReintento(codigo) {
   }
   resultados.sort((a, b) => a.c - b.c);
 
+  // Historial corto por estación: h = [[fecha, valor], ...] (últimas 12 lecturas distintas)
   let anterior = null;
   try { anterior = JSON.parse(fs.readFileSync(ARCHIVO_SALIDA, 'utf8')).estaciones; } catch (e) {}
+  const previas = new Map((anterior || []).map(x => [x.c, x.h || []]));
+  resultados.forEach(r => {
+    const h = (previas.get(r.c) || []).slice();
+    const ult = h[h.length - 1];
+    if (!ult || ult[0] !== r.fecha) h.push([r.fecha, r.valor]);
+    r.h = h.slice(-12);
+  });
   if (anterior && JSON.stringify(anterior) === JSON.stringify(resultados)) {
     console.log('Sin cambios.');
     return;
