@@ -9,7 +9,7 @@ const SIMULTANEAS = 5;
 const ARCHIVO_ESTACIONES = path.join(__dirname, '..', 'data', 'snih-estaciones.json');
 const ARCHIVO_SALIDA = path.join(__dirname, '..', 'data', 'snih-niveles.json');
 
-async function pedir(codigo) {
+async function pedir(codigo, codMed = CODIGO_ALTURA) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), 12000);
   try {
@@ -23,19 +23,19 @@ async function pedir(codigo) {
     const j = await r.json();
     const d = j.d || {};
     if (d.RespuestaOK === false) throw new Error(d.MsgErr || 'RespuestaOK false');
-    const m = (d.Mediciones || []).find(x => x.Codigo === CODIGO_ALTURA && x.Valor != null);
+    const m = (d.Mediciones || []).find(x => x.Codigo === codMed && x.Valor != null);
     if (!m || Number(m.Valor) <= -100) return null; // -999 / -9999 = sin dato válido
     const ms = Number((String(m.FechaHora).match(/-?\d+/) || [])[0]);
     return { valor: Number(m.Valor), fecha: new Date(ms).toISOString() };
   } finally { clearTimeout(timer); }
 }
 
-async function conReintento(codigo) {
-  try { return await pedir(codigo); }
-  catch (e) { await new Promise(r => setTimeout(r, 1500)); return pedir(codigo); }
+async function conReintento(codigo, codMed) {
+  try { return await pedir(codigo, codMed); }
+  catch (e) { await new Promise(r => setTimeout(r, 1500)); return pedir(codigo, codMed); }
 }
 
-(async () => {
+async function niveles() {
   const estaciones = JSON.parse(fs.readFileSync(ARCHIVO_ESTACIONES, 'utf8'));
   const resultados = [];
   let errores = 0, primerError = null, i = 0;
@@ -77,4 +77,40 @@ async function conReintento(codigo) {
     estaciones: resultados,
   }));
   console.log('Archivo guardado.');
-})().catch(e => { console.error(e.message); process.exit(1); });
+}
+
+// Lluvia (código 20, mm) de estaciones del SNIH en un radio de 250 km de Mercedes.
+// Se guarda cada lectura distinta con su fecha: h = [[fecha, mm], ...] (últimas 48).
+async function lluvia() {
+  const ARCH_EST = path.join(__dirname, '..', 'data', 'snih-lluvia-estaciones.json');
+  const ARCH_OUT = path.join(__dirname, '..', 'data', 'snih-lluvia.json');
+  const estaciones = JSON.parse(fs.readFileSync(ARCH_EST, 'utf8'));
+  let anterior = [];
+  try { anterior = JSON.parse(fs.readFileSync(ARCH_OUT, 'utf8')).estaciones; } catch (e) {}
+  const previas = new Map(anterior.map(x => [x.c, x.h || []]));
+  const res = [];
+  for (let k = 0; k < estaciones.length; k += SIMULTANEAS) {
+    await Promise.all(estaciones.slice(k, k + SIMULTANEAS).map(async e => {
+      try {
+        const m = await conReintento(e.c, 20);
+        if (!m) return;
+        const h = (previas.get(e.c) || []).slice();
+        const ult = h[h.length - 1];
+        if (!ult || ult[0] !== m.fecha) h.push([m.fecha, m.valor]);
+        res.push({ ...e, valor: m.valor, fecha: m.fecha, h: h.slice(-48) });
+      } catch (err) { console.log(`Lluvia ${e.c}: ${err.message}`); }
+    }));
+  }
+  console.log(`Lluvia: ${res.length} de ${estaciones.length} estaciones con dato.`);
+  if (!res.length) return;
+  res.sort((a, b) => a.c - b.c);
+  if (JSON.stringify(anterior) === JSON.stringify(res)) return;
+  fs.writeFileSync(ARCH_OUT, JSON.stringify({ actualizado: new Date().toISOString(), fuente: 'SNIH — datos sin validar', estaciones: res }));
+}
+
+(async () => {
+  let fallo = null;
+  try { await niveles(); } catch (e) { fallo = e; }
+  try { await lluvia(); } catch (e) { console.log('Lluvia: ' + e.message); }
+  if (fallo) { console.error(fallo.message); process.exit(1); }
+})();
