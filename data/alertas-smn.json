@@ -1,16 +1,16 @@
 {
-  "verificado": "2026-10-30T21:00:00.000Z",
+  "verificado": "2026-10-30T22:00:00.000Z",
   "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Baradero - Campana - Cap Sarmiento - Carmen de Areco - Exaltacion de la Cruz - S. A. de Giles - Salto - San A. Areco - Zarate.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_30_2132_cap_es.xml",
+      "fecha": ""
+    },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Gral Rodriguez - Hurlingham - Ituzaingo - Jose C. Paz - Lujan - Marcos Paz - Merlo - Moreno - Moron - Pilar - San Miguel.",
       "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_30_2122_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Almirante Brown - Brandsen - Ensenada - Esteban Echeverria - Ezeiza - Florencio Varela - La Plata - Lomas de Zamora - Pte Peron - Quilmes - San Vicente.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_30_2101_cap_es.xml",
       "fecha": ""
     }
   ]
