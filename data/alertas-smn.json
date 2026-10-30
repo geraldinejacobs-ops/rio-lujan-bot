@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-10-30T15:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-10-30T16:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Colon - Concepcion del Ururguay - San Salvador - Villaguay.",
+      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1552_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
