@@ -3,8 +3,20 @@
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Belgrano - Chacabuco - Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon - Ldor Gral San Martin.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_30_1630_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Brandsen - Canuelas - Gral Belgrano - Gral Las Heras - Gral Paz - Lobos - S. M. del Monte - San Vicente.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_30_1639_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
       "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Colon - Concepcion del Ururguay - San Salvador - Villaguay.",
-      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1552_cap_es.xml",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_10_30_1552_cap_es.xml",
       "fecha": ""
     }
   ]
