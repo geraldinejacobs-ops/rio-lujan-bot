@@ -1,10 +1,10 @@
 {
-  "verificado": "2026-10-30T12:00:00.000Z",
+  "verificado": "2026-10-30T13:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Almirante Brown - Avellaneda - Berazategui - Berisso - Canuelas - Ensenada - Esteban Echeverria - Ezeiza - Florencio Varela - Gral Las Heras - Gral Rodriguez - Gral San Martin - Hurlingham - Ituzaingo - La Matanza - La Plata - Lanus - Lomas de Zamora - Lujan - Magdalena - Marcos Paz - Merlo - Moreno - Moron - Pte Peron - Quilmes - San Vicente - Tres de Febrero - Vicente Lopez.RIO DE LA PLATA: Rio de la Plata Interior.CAPITAL FEDERAL: CABA.",
-      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1030_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Berisso - Ensenada - La Plata - Magdalena.RIO DE LA PLATA: Rio de la Plata Interior.",
+      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1232_cap_es.xml",
       "fecha": ""
     }
   ]
