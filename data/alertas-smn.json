@@ -1,11 +1,4 @@
 {
-  "verificado": "2026-10-30T14:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Azul - Las Flores - Rauch - Tapalque.",
-      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1330_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-10-30T15:00:00.000Z",
+  "avisos": []
 }
