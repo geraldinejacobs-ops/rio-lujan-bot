@@ -6,34 +6,34 @@
   "otras_estaciones": [
     {
       "estacion": "Puente Jáuregui",
-      "valor_m": 0.17,
-      "fecha": "2026-10-30T06:00:00",
+      "valor_m": 0.16,
+      "fecha": "2026-10-30T07:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 6",
       "valor_m": 0.05,
-      "fecha": "2026-10-30T06:15:00",
+      "fecha": "2026-10-30T07:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Olivera",
-      "valor_m": 0.28,
-      "fecha": "2026-10-30T06:15:00",
+      "valor_m": 0.27,
+      "fecha": "2026-10-30T07:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 9",
       "valor_m": 0.5,
-      "fecha": "2026-10-30T06:15:00",
+      "fecha": "2026-10-30T07:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 8",
       "valor_m": 0.1,
-      "fecha": "2026-10-30T06:15:00",
+      "fecha": "2026-10-30T07:00:00",
       "tendencia": "estable"
     }
   ],
-  "actualizado": "2026-10-30T09:30:50.544Z"
+  "actualizado": "2026-10-30T10:28:28.031Z"
 }
