@@ -1,10 +1,10 @@
 {
-  "verificado": "2026-10-30T13:00:00.000Z",
+  "verificado": "2026-10-30T14:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Berisso - Ensenada - La Plata - Magdalena.RIO DE LA PLATA: Rio de la Plata Interior.",
-      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1232_cap_es.xml",
+      "titulo": "LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Azul - Las Flores - Rauch - Tapalque.",
+      "link": "https:///feeds/CAP/avisocortoplazo/2026_10_30_1330_cap_es.xml",
       "fecha": ""
     }
   ]
