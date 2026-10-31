@@ -13,27 +13,27 @@
     {
       "estacion": "Puente Ruta Nac. 6",
       "valor_m": 0.19,
-      "fecha": "2026-10-30T20:00:00",
+      "fecha": "2026-10-30T20:45:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Olivera",
       "valor_m": 0.28,
-      "fecha": "2026-10-30T20:00:00",
+      "fecha": "2026-10-30T20:45:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 9",
       "valor_m": 0.49,
-      "fecha": "2026-10-30T20:00:00",
+      "fecha": "2026-10-30T20:45:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 8",
-      "valor_m": 0.18,
-      "fecha": "2026-10-30T20:00:00",
+      "valor_m": 0.24,
+      "fecha": "2026-10-30T20:45:00",
       "tendencia": "subiendo"
     }
   ],
-  "actualizado": "2026-10-30T23:25:54.514Z"
+  "actualizado": "2026-10-31T00:00:10.587Z"
 }
