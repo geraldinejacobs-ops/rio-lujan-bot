@@ -1,40 +1,16 @@
 {
-  "verificado": "2026-11-01T02:00:00.000Z",
+  "verificado": "2026-11-01T09:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Belgrano - Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0218_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Cruz del Eje - Ischilin - Punilla - Sobremonte - Totoral - Tulumba.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0124_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CATAMARCA: La Paz.CORDOBA: Cruz del Eje - Ischilin - Sobremonte - Totoral - Tulumba.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0923_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Banda - Guasayan - Rio Hondo - Robles - San Martin - Sgo del Estero - Silipica.TUCUMAN: Graneros - La Cocha - Simoca.CATAMARCA: Santa Rosa.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0122_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Banda - Jimenez - Rio Hondo.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0220_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Rivadavia.SANTA FE: Castellanos - San Cristobal.CORDOBA: Rio Seco - San Justo - Tulumba.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0103_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Calamuchita - Colon - Cordoba - Cruz del Eje - Gral San Martin - Ischilin - Punilla - Rio Primero - Rio Segundo - Santa Maria - Tercero Arriba - Totoral - Tulumba.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0055_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 9 de Julio - Almirante Brown - Cmte Fernandez - Gral Belgrano - Independencia - Maipu.SANTIAGO DEL ESTERO: Alberdi.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0752_cap_es.xml",
       "fecha": ""
     }
   ]
