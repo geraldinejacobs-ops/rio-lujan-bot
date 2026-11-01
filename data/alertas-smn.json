@@ -1,17 +1,4 @@
 {
-  "verificado": "2026-11-01T09:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CATAMARCA: La Paz.CORDOBA: Cruz del Eje - Ischilin - Sobremonte - Totoral - Tulumba.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0923_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 9 de Julio - Almirante Brown - Cmte Fernandez - Gral Belgrano - Independencia - Maipu.SANTIAGO DEL ESTERO: Alberdi.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_0752_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-11-01T16:00:00.000Z",
+  "avisos": []
 }
