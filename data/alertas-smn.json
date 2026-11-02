@@ -1,46 +1,34 @@
 {
-  "verificado": "2026-11-01T23:00:00.000Z",
+  "verificado": "2026-11-02T05:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: 25 de Mayo - 9 de Julio - Bolivar - Carlos Casares - Cnel Suarez - Daireaux - Gral Lamadrid - Guamini - Hipolito Yrigoyen - Olavarria - Pehuajo - Tapalque.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2343_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo.CHACO: Gral Guemes.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_02_0509_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral Roca - Pres Roque S. Pena - Rio Cuarto.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2307_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Juan F. Ibarra - Moreno.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_02_0540_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Gral Pedernera.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2304_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Carlos Tejedor - Daireaux - Gral Villegas - Hipolito Yrigoyen - Pehuajo - Rivadavia - Trenque Lauquen.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2244_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Figueroa - Moreno.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_02_0415_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Rio Segundo - San Justo.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2224_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 12 de Octubre - Chacabuco.SANTIAGO DEL ESTERO: Moreno.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_02_0506_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Ayacucho - Belgrano - Chacabuco - Junin - Ldor Gral San Martin.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2213_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Gdor Dupuy - Gral Pedernera - Juan M. de Pueyrredon.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_01_2157_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 9 de Julio - Almirante Brown - Chacabuco - Gral Belgrano.SANTIAGO DEL ESTERO: Alberdi - Copo - Moreno.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_02_0356_cap_es.xml",
       "fecha": ""
     }
   ]
