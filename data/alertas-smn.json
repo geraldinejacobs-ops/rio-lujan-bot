@@ -1,22 +1,40 @@
 {
-  "verificado": "2026-11-03T11:00:00.000Z",
+  "verificado": "2026-11-03T18:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Gral Lopez.CORDOBA: Gral Roca - Juarez Celman - Marcos Juarez - Pres Roque S. Pena - Rio Cuarto - Union.BUENOS AIRES: Gral Villegas.LA PAMPA: Chapaleufu.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1102_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Gdor Dupuy - Gral Pedernera - Juan M. de Pueyrredon.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1046_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Calamuchita - Juarez Celman - Rio Cuarto.SAN LUIS: Chacabuco.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1829_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Patino.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1029_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: RIO NEGRO: San Antonio.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1822_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Marcos Juarez - Union.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1801_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Rio Cuarto.SAN LUIS: Ayacucho - Belgrano - Chacabuco - Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon - Ldor Gral San Martin.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1731_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Rio Cuarto.SAN LUIS: Belgrano - Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1653_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Rio Cuarto.SAN LUIS: Chacabuco - Gral Pedernera.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_1747_cap_es.xml",
       "fecha": ""
     }
   ]
