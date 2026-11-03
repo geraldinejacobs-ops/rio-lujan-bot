@@ -1,4 +1,17 @@
 {
-  "verificado": "2026-11-02T22:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-03T03:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral Roca - Rio Cuarto.SAN LUIS: Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_0318_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA PAMPA: Chalileo - Limay Mahuida - Loventue - Utracan.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_0252_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
