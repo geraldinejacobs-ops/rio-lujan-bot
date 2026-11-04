@@ -1,35 +1,4 @@
 {
-  "verificado": "2026-11-03T23:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MENDOZA: Gral Alvear.SAN LUIS: Gdor Dupuy.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_2338_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Colon - Concepcion del Ururguay - Concordia - San Salvador - Villaguay.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_2321_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA PAMPA: Chalileo - Chical Co - Limay Mahuida - Puelen - Utracan.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_2311_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA PAMPA: Limay Mahuida - Puelen.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_2157_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Gral San Martin - Rosario V. Penaloza.CORDOBA: Pocho - San alberto - San Javier.SAN LUIS: Ayacucho - Junin.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_03_2244_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-11-04T03:00:00.000Z",
+  "avisos": []
 }
