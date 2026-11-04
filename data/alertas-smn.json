@@ -1,17 +1,4 @@
 {
-  "verificado": "2026-11-04T18:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: 25 de Mayo - Cainguas - Guarani - Ldor Gral San Martin - Montecarlo - Obera - San Ignacio - San Pedro.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_04_1833_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: El Dorado - Gral Manuel Belgrano - Guarani - Montecarlo - San Pedro.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_04_1826_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-11-04T23:00:00.000Z",
+  "avisos": []
 }
