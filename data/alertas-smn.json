@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-11-11T03:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-11T10:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Curuzu Cuatia - Monte Caseros - Paso de los Libres - Sauce.ENTRE RIOS: Federacion - S. J. de Feliciano.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_11_0907_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
