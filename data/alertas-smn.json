@@ -1,10 +1,16 @@
 {
-  "verificado": "2026-11-11T10:00:00.000Z",
+  "verificado": "2026-11-11T18:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Curuzu Cuatia - Monte Caseros - Paso de los Libres - Sauce.ENTRE RIOS: Federacion - S. J. de Feliciano.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_11_0907_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 25 de Mayo - Ldor Gral S. Martin - Sargento Cabral.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_11_1759_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo - Patino.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_11_1750_cap_es.xml",
       "fecha": ""
     }
   ]
