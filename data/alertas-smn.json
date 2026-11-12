@@ -1,4 +1,17 @@
 {
-  "verificado": "2026-11-12T07:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-12T16:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Formosa - Patino - Pilagas - Pilcomayo - Pirane.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_12_1439_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: Guarani - San Pedro.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_12_1521_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
