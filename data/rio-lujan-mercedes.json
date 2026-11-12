@@ -1,39 +1,39 @@
 {
   "estacion": "Río Luján en Mercedes - Puente Manuel J. García",
-  "valor_m": 1.04,
-  "tendencia": "estable",
-  "fecha": "2026-11-12T07:00:00",
+  "valor_m": 1.02,
+  "tendencia": "bajando",
+  "fecha": "2026-11-12T15:00:00",
   "otras_estaciones": [
     {
       "estacion": "Puente Jáuregui",
-      "valor_m": 0.15,
-      "fecha": "2026-11-12T07:00:00",
+      "valor_m": 0.14,
+      "fecha": "2026-11-12T15:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 6",
       "valor_m": 0.05,
-      "fecha": "2026-11-12T07:00:00",
+      "fecha": "2026-11-12T15:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Olivera",
-      "valor_m": 0.28,
-      "fecha": "2026-11-12T07:00:00",
+      "valor_m": 0.27,
+      "fecha": "2026-11-12T15:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 9",
       "valor_m": 0.48,
-      "fecha": "2026-11-12T07:00:00",
+      "fecha": "2026-11-12T15:00:00",
       "tendencia": "estable"
     },
     {
       "estacion": "Puente Ruta Nac. 8",
-      "valor_m": 0.1,
-      "fecha": "2026-11-12T07:00:00",
+      "valor_m": 0.09,
+      "fecha": "2026-11-12T15:00:00",
       "tendencia": "estable"
     }
   ],
-  "actualizado": "2026-11-12T10:20:26.047Z"
+  "actualizado": "2026-11-12T18:29:46.957Z"
 }
