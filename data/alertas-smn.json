@@ -1,40 +1,46 @@
 {
-  "verificado": "2026-11-13T22:00:00.000Z",
+  "verificado": "2026-11-14T03:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Colon - Cordoba - Gral San Martin - Rio Primero - Rio Segundo - San Justo - Santa Maria - Tercero Arriba - Union.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_13_2207_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: A. Gonzales Chaves - Gral Alvarado - Loberia - Necochea - San Cayetano - Tres Arroyos.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_13_2239_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Belgrano - Gral Taboada.SANTA FE: 9 de Julio.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0209_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Calamuchita - Colon - Punilla - Rio Segundo - San alberto - Santa Maria.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_13_2233_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CATAMARCA: La Paz.LA RIOJA: Chamical - La Rioja.CORDOBA: Cruz del Eje - Ischilin - Sobremonte - Tulumba.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0206_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Garay - San Javier - San Justo.ENTRE RIOS: La Paz.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_13_2217_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Chamical - Gral A. V. Penaloza - Gral Belgrano - Gral Juan F. Quiroga - Gral Ocampo.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0204_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Castellanos - Garay - La Capital - Las Colonias - San Jeronimo - San Justo - San Martin.ENTRE RIOS: Diamante - La Paz - Nogoya - Parana.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_13_2104_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Ischilin - Rio Primero - Rio Seco - Sobremonte - Totoral - Tulumba.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0253_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Castellanos - Garay - La Capital - Las Colonias - San Jeronimo - San Justo - San Martin.ENTRE RIOS: Diamante - La Paz - Nogoya - Parana.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_13_2104_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Aguirre - Atamisqui - Avellaneda - Gral Taboada - Juan F. Ibarra - Salavina - Sarmiento.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0146_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Aguirre - Belgrano - Mitre - Quebrachos - Rivadavia.SANTA FE: 9 de Julio - San Cristobal.CORDOBA: Rio Seco.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0125_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Gral Juan F. Quiroga - Gral Ocampo - Gral San Martin - Rosario V. Penaloza.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0112_cap_es.xml",
       "fecha": ""
     }
   ]
