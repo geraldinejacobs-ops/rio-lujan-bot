@@ -1,46 +1,22 @@
 {
-  "verificado": "2026-11-14T03:00:00.000Z",
+  "verificado": "2026-11-14T10:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Belgrano - Gral Taboada.SANTA FE: 9 de Julio.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0209_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - 25 de Mayo - Almirante Brown - Bermejo - Cmte Fernandez - Gral Guemes - Independencia - Ldor Gral S. Martin - Libertad - Maipu - O Higgins - Pres de la Plaza - Quitilipi - San Lorenzo - Sargento Cabral - Tapenaga.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0916_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CATAMARCA: La Paz.LA RIOJA: Chamical - La Rioja.CORDOBA: Cruz del Eje - Ischilin - Sobremonte - Tulumba.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0206_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Banda - Jimenez - Rio Hondo.TUCUMAN: Burruyacu - Chicligasta - Cruz Alta - Famailla - Graneros - Leales - Lules - Monteros - S. M. de Tucuman - Simoca - Tafi Viejo - Trancas - Yerba Buena.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0826_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Chamical - Gral A. V. Penaloza - Gral Belgrano - Gral Juan F. Quiroga - Gral Ocampo.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0204_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Ischilin - Rio Primero - Rio Seco - Sobremonte - Totoral - Tulumba.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0253_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Aguirre - Atamisqui - Avellaneda - Gral Taboada - Juan F. Ibarra - Salavina - Sarmiento.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0146_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Aguirre - Belgrano - Mitre - Quebrachos - Rivadavia.SANTA FE: 9 de Julio - San Cristobal.CORDOBA: Rio Seco.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0125_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Gral Juan F. Quiroga - Gral Ocampo - Gral San Martin - Rosario V. Penaloza.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0112_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Castro Barros - Chamical - Gral A. V. Penaloza - Independencia - La Rioja - Sanagasta.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0823_cap_es.xml",
       "fecha": ""
     }
   ]
