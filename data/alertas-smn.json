@@ -1,22 +1,10 @@
 {
-  "verificado": "2026-11-14T10:00:00.000Z",
+  "verificado": "2026-11-14T16:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: Gral Donovan - 1 de Mayo - 25 de Mayo - Almirante Brown - Bermejo - Cmte Fernandez - Gral Guemes - Independencia - Ldor Gral S. Martin - Libertad - Maipu - O Higgins - Pres de la Plaza - Quitilipi - San Lorenzo - Sargento Cabral - Tapenaga.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0916_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Banda - Jimenez - Rio Hondo.TUCUMAN: Burruyacu - Chicligasta - Cruz Alta - Famailla - Graneros - Leales - Lules - Monteros - S. M. de Tucuman - Simoca - Tafi Viejo - Trancas - Yerba Buena.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0826_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Castro Barros - Chamical - Gral A. V. Penaloza - Independencia - La Rioja - Sanagasta.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_0823_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo - Formosa - Laishi - Patino - Pilagas - Pilcomayo - Pirane.CHACO: 25 de Mayo - Almirante Brown - Cmte Fernandez - Gral Guemes - Independencia - Ldor Gral S. Martin - Maipu - Pres de la Plaza - Quitilipi - Sargento Cabral.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_14_1603_cap_es.xml",
       "fecha": ""
     }
   ]
