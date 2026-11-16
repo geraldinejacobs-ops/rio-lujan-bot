@@ -1,4 +1,17 @@
 {
-  "verificado": "2026-11-16T06:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-16T15:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Rio Cuarto.SAN LUIS: Cnel Pringles - Gral Pedernera.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_1543_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral Roca - Rio Cuarto.MENDOZA: Gral Alvear - La Paz - San Rafael.SAN LUIS: Gdor Dupuy - Gral Pedernera - Juan M. de Pueyrredon.LA PAMPA: Parera - Realico.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_1423_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
