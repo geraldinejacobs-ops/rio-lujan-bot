@@ -1,17 +1,4 @@
 {
-  "verificado": "2026-11-15T23:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: NEUQUEN: Anelo - Confluencia - Pehuenche.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_15_2316_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Belgrano - Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_15_2235_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-11-16T06:00:00.000Z",
+  "avisos": []
 }
