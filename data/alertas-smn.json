@@ -1,52 +1,34 @@
 {
-  "verificado": "2026-11-17T00:00:00.000Z",
+  "verificado": "2026-11-17T08:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: ENTRE RIOS: Gualeguay - Nogoya - Tala - Victoria.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2359_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Atamisqui - Avellaneda - Choya - Guasayan - Loreto - Robles - Salavina - San Martin - Sarmiento - Sgo del Estero - Silipica.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0739_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Castellanos - Iriondo - La Capital - Las Colonias - San Jeronimo - San Lorenzo - San Martin.CORDOBA: San Justo.ENTRE RIOS: Diamante - Parana - Victoria.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2352_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Concepcion - Curuzu Cuatia - Mercedes - Paso de los Libres - San Roque.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0733_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Gral Juan F. Quiroga - Gral Ocampo - Gral San Martin - Rosario V. Penaloza.CORDOBA: Minas - Pocho - San alberto.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2344_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Atamisqui - Choya - Loreto - Ojo de Agua - Quebrachos - Salavina.CORDOBA: Rio Seco - Sobremonte.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0711_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA RIOJA: Gral San Martin - Rosario V. Penaloza.CORDOBA: Pocho - San alberto - San Javier.SAN LUIS: Ayacucho - Junin.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2252_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: San Fernando.SANTA FE: Gral Obligado.CORRIENTES: Bella Vista - Concepcion - Empedrado - Mburucuya - Saladas - San Roque.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0703_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Gral Lopez.BUENOS AIRES: Bragado - Chacabuco - Colon - Gral Arenales - Gral Viamonte - Junin - L. N. Alem - Rojas - Salto.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2244_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: San Martin.CORDOBA: Gral San Martin - Marcos Juarez - Rio Primero - Rio Segundo - San Justo - Tercero Arriba - Union.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2224_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Castellanos - San Martin.CORDOBA: Rio Primero - San Justo.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2321_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: LA PAMPA: Curaco - Lihuel Calel - Limay Mahuida - Utracan.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2210_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Mercedes - Paso de los Libres - San Martin.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0632_cap_es.xml",
       "fecha": ""
     }
   ]
