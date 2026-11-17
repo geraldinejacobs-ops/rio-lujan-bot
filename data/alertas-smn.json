@@ -1,34 +1,22 @@
 {
-  "verificado": "2026-11-17T08:00:00.000Z",
+  "verificado": "2026-11-17T17:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Atamisqui - Avellaneda - Choya - Guasayan - Loreto - Robles - Salavina - San Martin - Sarmiento - Sgo del Estero - Silipica.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0739_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: MISIONES: El Dorado - Gral Manuel Belgrano - Iguazu - San Pedro.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1620_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Concepcion - Curuzu Cuatia - Mercedes - Paso de los Libres - San Roque.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0733_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo - Matacos - Ramon Lista.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1549_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTIAGO DEL ESTERO: Atamisqui - Choya - Loreto - Ojo de Agua - Quebrachos - Salavina.CORDOBA: Rio Seco - Sobremonte.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0711_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: San Fernando.SANTA FE: Gral Obligado.CORRIENTES: Bella Vista - Concepcion - Empedrado - Mburucuya - Saladas - San Roque.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0703_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORRIENTES: Mercedes - Paso de los Libres - San Martin.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0632_cap_es.xml",
+      "titulo": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo - Patino.CHACO: Gral Guemes.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1545_cap_es.xml",
       "fecha": ""
     }
   ]
