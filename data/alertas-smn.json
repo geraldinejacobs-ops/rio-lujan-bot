@@ -1,11 +1,4 @@
 {
-  "verificado": "2026-11-17T23:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Brandsen - Canuelas - Esteban Echeverria - Florencio Varela - Gral Belgrano - Gral Paz - La Plata - Lobos - Pte Peron - S. M. del Monte - San Vicente.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_2339_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-11-18T07:00:00.000Z",
+  "avisos": []
 }
