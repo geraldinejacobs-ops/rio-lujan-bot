@@ -1,16 +1,16 @@
 {
-  "verificado": "2026-11-19T04:00:00.000Z",
+  "verificado": "2026-11-19T12:00:00.000Z",
   "avisos": [
     {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Formosa - Pilagas - Pilcomayo - Pirane.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_0322_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Gral Pedernera.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1223_cap_es.xml",
       "fecha": ""
     },
     {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Bermejo - Patino - Pilagas - Pirane.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_0312_cap_es.xml",
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Gdor Dupuy - Gral Pedernera - Juan M. de Pueyrredon.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1200_cap_es.xml",
       "fecha": ""
     }
   ]
