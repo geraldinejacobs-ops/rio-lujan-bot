@@ -1,34 +1,28 @@
 {
-  "verificado": "2026-11-20T10:00:00.000Z",
+  "verificado": "2026-11-20T18:00:00.000Z",
   "avisos": [
     {
-      "titulo": "TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: 1 de Mayo - Bermejo - Libertad - San Fernando.SANTA FE: Gral Obligado.CORRIENTES: Corrientes - Empedrado - Itati - Saladas - San Cosme - San Luis del Palmar.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1003_cap_es.xml",
-      "fecha": ""
-    },
-    {
       "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Laishi.CHACO: 1 de Mayo - Bermejo - Ldor Gral S. Martin.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0948_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Gral Obligado - Vera.CORRIENTES: Bella Vista - Empedrado - Saladas - San Roque.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0846_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CHACO: San Fernando.SANTA FE: Gral Obligado.CORRIENTES: Empedrado.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0943_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Berisso - Ensenada - La Plata - Magdalena - Punta Indio.RIO DE LA PLATA: Rio de la Plata Interior.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1826_cap_es.xml",
       "fecha": ""
     },
     {
       "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SANTA FE: Garay - San Javier.CORRIENTES: Esquina.ENTRE RIOS: Federal - La Paz - S. J. de Feliciano.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0926_cap_es.xml",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Ayacucho - Balcarce - Loberia - Tandil.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1745_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Almirante Brown - Berazategui - Berisso - Brandsen - Canuelas - Ensenada - Esteban Echeverria - Ezeiza - Florencio Varela - La Plata - Lomas de Zamora - Magdalena - Pte Peron - Quilmes - San Vicente.RIO DE LA PLATA: Rio de la Plata Interior.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1731_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: A. Gonzales Chaves - Benito Juarez - Loberia - Necochea - San Cayetano - Tandil - Tres Arroyos.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1729_cap_es.xml",
       "fecha": ""
     }
   ]
