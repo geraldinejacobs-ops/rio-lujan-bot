@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-11-21T15:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-21T21:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Gral Roca - Rio Cuarto.SAN LUIS: Cnel Pringles - Gral Pedernera.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_21_2007_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
