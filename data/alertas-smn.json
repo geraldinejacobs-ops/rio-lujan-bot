@@ -1,29 +1,4 @@
 {
-  "verificado": "2026-11-20T18:00:00.000Z",
-  "avisos": [
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Berisso - Ensenada - La Plata - Magdalena - Punta Indio.RIO DE LA PLATA: Rio de la Plata Interior.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1826_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Ayacucho - Balcarce - Loberia - Tandil.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1745_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: Almirante Brown - Berazategui - Berisso - Brandsen - Canuelas - Ensenada - Esteban Echeverria - Ezeiza - Florencio Varela - La Plata - Lomas de Zamora - Magdalena - Pte Peron - Quilmes - San Vicente.RIO DE LA PLATA: Rio de la Plata Interior.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1731_cap_es.xml",
-      "fecha": ""
-    },
-    {
-      "titulo": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: BUENOS AIRES: A. Gonzales Chaves - Benito Juarez - Loberia - Necochea - San Cayetano - Tandil - Tres Arroyos.",
-      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1729_cap_es.xml",
-      "fecha": ""
-    }
-  ]
+  "verificado": "2026-11-21T00:00:00.000Z",
+  "avisos": []
 }
