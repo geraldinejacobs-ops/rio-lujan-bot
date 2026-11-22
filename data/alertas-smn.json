@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-11-22T08:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-22T16:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: FORMOSA: Patino.CHACO: Almirante Brown - Gral Guemes - Ldor Gral S. Martin - Maipu.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_22_1538_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
