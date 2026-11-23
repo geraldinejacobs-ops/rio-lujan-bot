@@ -1,4 +1,17 @@
 {
-  "verificado": "2026-11-23T02:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-23T10:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Gdor Dupuy - Gral Pedernera - Juan M. de Pueyrredon.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_23_0943_cap_es.xml",
+      "fecha": ""
+    },
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: CORDOBA: Calamuchita - Juarez Celman - Rio Cuarto - Tercero Arriba.SAN LUIS: Chacabuco - Gral Pedernera.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_23_0938_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
