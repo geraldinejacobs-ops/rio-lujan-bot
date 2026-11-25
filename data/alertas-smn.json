@@ -1,4 +1,11 @@
 {
-  "verificado": "2026-11-25T01:00:00.000Z",
-  "avisos": []
+  "verificado": "2026-11-25T10:00:00.000Z",
+  "avisos": [
+    {
+      "titulo": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+      "descripcion": "Afectando parcialmente los siguientes Partidos y Departamentos: SAN LUIS: Cnel Pringles - Gral Pedernera - Juan M. de Pueyrredon.",
+      "link": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_25_0953_cap_es.xml",
+      "fecha": ""
+    }
+  ]
 }
